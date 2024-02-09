@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Umi-OCR 小巧易用内容识别工具</title>
+      <link href="/blog/Umi-OCR/"/>
+      <url>/blog/Umi-OCR/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><div class="note info no-icon modern"><p>Umi-OCR是一款开源、免费的离线OCR(optical character recognition)软件,支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。目前支持中/日/英/韩/俄五种语言,Windows系统可用,跨平台的支持正在筹备中。</p></div><h1 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h1><div class="note info no-icon modern"><p>Github：<a href="https://github.com/hiroi-sora/Umi-OCR/releases/latest">https://github.com/hiroi-sora/Umi-OCR/releases/latest</a><br>蓝奏云：<a href="https://hiroi-sora.lanzoul.com/s/umi-ocr">https://hiroi-sora.lanzoul.com/s/umi-ocr</a><br>Source Forge：<a href="https://sourceforge.net/projects/umi-ocr">https://sourceforge.net/projects/umi-ocr</a><br>感谢作者hiroi-sora,具体用法参考说明<a href="https://github.com/hiroi-sora/Umi-OCR">https://github.com/hiroi-sora/Umi-OCR</a></p></div><h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><div class="note info no-icon modern"><p>识别文字内容时语言选项一定要对应,否则会一直运行而没有输出。公式识别和PDF识别还在完善中,请保持关注。<br>支持作者hiroi-sora的项目可以点点免费的star~<br><img src="Umi1.png" alt="注意语言"></p></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> Share </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Share </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>使用Stable Diffusion1.0模型,本地生成图片</title>
       <link href="/blog/Stable%20Diffusion/"/>
       <url>/blog/Stable%20Diffusion/</url>
