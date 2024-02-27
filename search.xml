@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>Youtube Downloader</title>
+      <link href="/blog/Youtube%20Downloader/"/>
+      <url>/blog/Youtube%20Downloader/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><div class="note info no-icon modern"><p>Youtube Downloader 是一款免费开源的Youtube视频下载器,它提供了多种清晰度选项,下载速度全凭网速。有了它,再也不需要忍受网页下载站720p清晰度的限制,Chrome插件小水管30Kb的下载速度了。<br><img src="YoutubeDownloader.png" alt=""></p></div><h1 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h1><div class="note info no-icon modern"><p>Github：<a href="https://github.com/Tyrrrz/YoutubeDownloader/releases">https://github.com/Tyrrrz/YoutubeDownloader/releases</a></p></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> Share </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Software </tag>
+            
+            <tag> Share </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>资源网站分享</title>
       <link href="/blog/Share/"/>
       <url>/blog/Share/</url>
