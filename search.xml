@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Wallpaper Engine PKG 文件提取</title>
+      <link href="/blog/extract_pkgfiles/"/>
+      <url>/blog/extract_pkgfiles/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><div class="note info no-icon modern"><p> RepkgGUI是以Repkg为核心编写的小工具，方便用户提取pkg文件中包含的内容。这里主要讲Wallpaper Enging(后文皆用WE代称)中pkg文件的提取与运用。在WE中,壁纸,尤其是2D壁纸被打包后是无法直接用WE自带的editor编辑的,会提示打包后的壁纸无法被打开。此时需要先把包含各种预设，资源与图片的PKG文件解包,2D壁纸一般会包含materials、models、particles、scripts、shaders等文件夹，其中<font color="red">壁纸原图在materials里</font>想获取壁纸的朋友看到这里就可去试试了，下面是本地和在线解包工具。<br> PKG项目地址：<a href="https://github.com/notscuffed/repkg">https://github.com/notscuffed/repkg</a><br> 两款功能类似的GUI工具：<br> (1)RePKG GUI:<a href="https://github.com/XANXUS2/-RePKG-GUI-Python-Wallpaper-Engine-">https://github.com/XANXUS2/-RePKG-GUI-Python-Wallpaper-Engine-</a><br> (2)RePkgUiTool:<a href="https://github.com/zhongyang219/RePkgUiTool?tab=readme-ov-file">https://github.com/zhongyang219/RePkgUiTool?tab=readme-ov-file</a><br> 在线提取网页：<a href="https://wetranslate.thiscould.work/scene.pkg">https://wetranslate.thiscould.work/scene.pkg</a><br> <font color="purple">特别提醒:GUI是要与Repkg.exe这个核心在一起才能使用的,否则会报错</font></p><div style="display: flex; justify-content: space-between; align-items: center;">   <img src="RePKG-GUI.png" alt="" width="572" height="524">   <img src="RePkgUiTool.png" alt="" width="595" height="367"></div></div><h1 id="用法"><a href="#用法" class="headerlink" title="用法"></a>用法</h1><div class="note info no-icon modern"><p>除了用于提取壁纸原图外，进阶一点可以帮助学习制作壁纸的方法与思路。有时候看到一张不错的壁纸，各种效果也很棒，想自己复刻同样的效果却犯了难，不知道作者是如何实现这些效果的，这时候就可以通过解包PKG文件，新建一个项目，然后把解包内容全部复制到新建项目中，此时关闭editor,再次打开就能看到作者原本的项目使用了那些预设，特效和粒子效果了。通过查看各种效果的参数，对与自己在制作壁纸中实现特定的效果很有帮助。其中一些预设是可以通用的，大部分可以微调参数，应用到其他的壁纸上。这些对于制作2D平面图形很有用，如果是3D或web可能情况更复杂一些，我这种半吊子就看不懂了=_=!.</p><p>壁纸本身是GIF或视频的情况下一般用不到，特效大部分是它本身自带的。也分析不出个所以然来。想复制文件话直接右键订阅的项目，点击在“资源管理器中打开”就可以了。</p><p>我是小白，不知道自建壁纸项目在储存在哪里。<br>即答： XX盘:\Steam\steamapps\common\wallpaper_engine\projects\myprojects  找到WE安装的磁盘，顺着找就行。</p><p>如何让静态场景动起来？<br>答： 如果是湖面，导入图片后点击图片，右侧特效里添加水波纹或者其他效果即可，需要用到画笔圈定动态范围，类似Photoshop的抠图。<br>如果是花草，可以添加摇摆效果(sway efect),同样要圈定范围，两者一开始是默认全图效果的。但如果想要更自然的效果可能就需要用到更专业的工具对原图进行处理了。如果想要实现更复杂的效果，需要自制效果并导入到壁纸中，这部分学习过程可以劝退大部分人了,233。</p></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> Software </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Share </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>BilibiliDown</title>
       <link href="/blog/BilibiliDown/"/>
       <url>/blog/BilibiliDown/</url>
@@ -20,9 +45,9 @@
       
         <tags>
             
-            <tag> Software </tag>
-            
             <tag> Share </tag>
+            
+            <tag> Software </tag>
             
         </tags>
       
@@ -74,9 +99,9 @@
       
         <tags>
             
-            <tag> Software </tag>
-            
             <tag> Share </tag>
+            
+            <tag> Software </tag>
             
         </tags>
       
@@ -128,9 +153,9 @@
       
         <tags>
             
-            <tag> Software </tag>
-            
             <tag> Share </tag>
+            
+            <tag> Software </tag>
             
         </tags>
       
@@ -155,9 +180,9 @@
       
         <tags>
             
-            <tag> Software </tag>
-            
             <tag> Share </tag>
+            
+            <tag> Software </tag>
             
         </tags>
       
@@ -209,9 +234,9 @@
       
         <tags>
             
-            <tag> Software </tag>
-            
             <tag> Share </tag>
+            
+            <tag> Software </tag>
             
         </tags>
       
@@ -263,9 +288,9 @@
       
         <tags>
             
-            <tag> Software </tag>
-            
             <tag> Share </tag>
+            
+            <tag> Software </tag>
             
         </tags>
       
@@ -290,9 +315,9 @@
       
         <tags>
             
-            <tag> Software </tag>
-            
             <tag> Share </tag>
+            
+            <tag> Software </tag>
             
         </tags>
       
