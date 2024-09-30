@@ -288,8 +288,6 @@
       
         <tags>
             
-            <tag> Share </tag>
-            
             <tag> 封面提取 </tag>
             
         </tags>
@@ -369,7 +367,7 @@
       
         <tags>
             
-            <tag> Share </tag>
+            <tag> Cloudflare </tag>
             
             <tag> 邮件转发 </tag>
             
@@ -425,8 +423,6 @@
             
             <tag> Cloudflare </tag>
             
-            <tag> 免费节点 </tag>
-            
         </tags>
       
     </entry>
@@ -479,8 +475,6 @@
             
             <tag> 防骗指南 </tag>
             
-            <tag> 亲身经历 </tag>
-            
         </tags>
       
     </entry>
@@ -524,14 +518,14 @@
       
       <categories>
           
-          <category> 新春祈福 </category>
+          <category> 祈福 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 祈愿 </tag>
+            <tag> 祈福 </tag>
             
         </tags>
       
@@ -556,9 +550,7 @@
       
         <tags>
             
-            <tag> Web </tag>
-            
-            <tag> 搭建博客 </tag>
+            <tag> Hexo-Butterfly </tag>
             
         </tags>
       
