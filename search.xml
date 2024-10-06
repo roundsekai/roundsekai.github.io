@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>GFPGAN 旧照片面部修复</title>
+      <link href="/blog/GFPGAN/"/>
+      <url>/blog/GFPGAN/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><div class="note success no-icon modern"><p>&emsp;&emsp;GFPGAN是腾讯相关人员开发的一款老照片人脸修复开源工具,适用于老照片图像中的面部修复，效果适中，对配置要求十分友好。部署在本地,操作简单。</p></div><h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2><div class="note success no-icon modern"><p>Github项目：<a href="https://github.com/TencentARC/GFPGAN">https://github.com/TencentARC/GFPGAN</a><br>整合包下载(Youtuber”AI探索与发现”整理)：<a href="https://drive.google.com/drive/folders/1ykBP2O6frl9Psdghb4aIFb5F0077qqh6">https://drive.google.com/drive/folders/1ykBP2O6frl9Psdghb4aIFb5F0077qqh6</a><font color="purple">解压密码：aidiscovery2045</font><br>Note:整合包有5.14GB,全部解压后大致9.45GB。<br>模型下载Github同页：<a href="https://github.com/TencentARC/GFPGAN">https://github.com/TencentARC/GFPGAN</a></p></div><h2 id="安装与使用"><a href="#安装与使用" class="headerlink" title="安装与使用"></a>安装与使用</h2><div class="note success no-icon modern"><p>1.如果下载源码，请按照Github配置页面逐步安装，关于配置虚拟环境,下载依赖项请自行Google搜索。注意NVIDIA显卡用户可以安装CUDA套件,提升出图速度。关于CUDA套件的对应版本，请自行搜索,不同NVIDIA显卡支持的CUDA套件并不一定相同,没有主意可以直接装最新的,一般是向下兼容的。</p><p>2.<font color="purple">推荐使用</font>Youtuber”AI探索与发现”的<a href="https://drive.google.com/drive/folders/1ykBP2O6frl9Psdghb4aIFb5F0077qqh6">整合包版本</a>,比较稳定，已经整合好了虚拟环境,只需要简单配置下即可使用(<font color="red">解压即用</font>),省去大把时间。</p><p>2.1 整合包版本的使用说明：<br>解压后有个”一键启动.bat“看到初次使用可能会抱错,原因是多样的,提示如下图片：<br><img src="GFPGANerror.png" alt="报错提示"><br>原因一:开启了代理，<font color="red">一定不要开启代理!</font>(可能和代理有冲突)。实测使用过程中开启代理会报错。<br>原因二：分辨率过高,博主说调整图片分辨率到1024×1024或以下,实测关系不大。<br>如遇到其他原因欢迎留言分享</p><p>2.1点击”一键启动.bat”,按住 ctrl+鼠标左键 或复制链接到浏览器出现操作界面。<br><img src="GFPGANstartbat.png" alt="一键启动"><br><img src="GFPGANUI.png" alt="操作界面"><br>注意默认是1.4模型整合包是没有的,整合包自带1.3模型,下载的模型放到 XX:\GFPGAN\experiments\pretrained_models 目录</p><p>2.2操作界面中只需要添加旧照片,选择对应的模型,大约等待30s~1minute左右,即可出图。耗时和像素大小成正相关,和设备配置负相关。</p><p>2.3 修复后的图片默认存放在安装目录下的output文件夹。点击下载则会另存到浏览器默认下载目录。</p><p>2.4修复效果因图而异,对单人像修复较好，多人或过于模糊会出现人像脱离图层或人脸修复错误等问题。<br><img src="GFPGANresult.png" alt="修复效果展示"></p></div><h1 id="相关"><a href="#相关" class="headerlink" title="相关"></a>相关</h1><div class="note success no-icon modern"><p>来源：<a href="https://www.youtube.com/watch?v=Zn67muKQ8Ag"><img src="https://img.youtube.com/vi/Zn67muKQ8Ag/0.jpg" alt="6个实用AI工具整合包，解压即用 |AI探索与发现"></a></p></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> Share </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Share </tag>
+            
+            <tag> Software </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>City Pop 歌曲推荐</title>
       <link href="/blog/CityPop/"/>
       <url>/blog/CityPop/</url>
