@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>iVCam 调用手机镜头作为摄像机</title>
+      <link href="/blog/iVCam/"/>
+      <url>/blog/iVCam/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="iVCam"><a href="#iVCam" class="headerlink" title="iVCam"></a>iVCam</h1><div class="note info no-icon modern"><p>&emsp;&emsp;如果你不想购买专业相机，而本地设备像素又不太好,在不是经常直播&amp;会议的使用场景下,调用手机镜头充当直播设备似乎是个不错的选择。相信疫情期间老师们或多或少都用过相关的直播相机产品，相比有点小贵(通常在400以上价位)的直播设备，用手机镜头充当直播相机好用且方便，早在很多年前就有相关产品实现过类似功能，但有些软件已经很久没更新了。iVCam打开即用，适配绝大多数设备，是个不错的选择。</p></div><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><div class="note info no-icon modern"><p>官方网站：<a href="https://www.e2esoft.com">https://www.e2esoft.com</a><br>中文网站: <a href="https://www.e2esoft.cn">https://www.e2esoft.cn</a></p><p>iVCam软件下载：<a href="https://www.e2esoft.com/ivcam">https://www.e2esoft.com/ivcam</a><br>IVcam中文下载：<a href="https://www.e2esoft.cn/ivcam">https://www.e2esoft.cn/ivcam</a></p></div><h1 id="用法"><a href="#用法" class="headerlink" title="用法"></a>用法</h1><div class="note info no-icon modern"><p>首先要同时安装PC版本软件和手机版</p><p>无线连接：PC和手机处于同一路由器的网络下,同时打开PC和手机app，手机端会自动搜索并配对,并在PC上弹出相机画面。</p><p>有线连接：连击手机设备页面CPU型号选项,进入开发者模式(不同品牌方法略有差异)，打开USB调试选项。关闭手机WIFI，用USB数据线连接PC和手机,选择数据传输模式并同时打开PC和手机应用，此时会自动配对，需要在手机上确认配对并点击播放按钮来开启相机。</p><p>画面设置：<br>在手机iVCam app右上角设置中调整分辨率，码率，质量等选项，根据手机配置调整最佳码率，清晰度和码率过高会造成明显卡顿，手机发热等现象。可以在弹出的相机画面中明显感觉到不同设置的差别。</p><p>视频录制：iVCam支持直播视频录制，免费版会带有水印且试用期过后会强制降低分辨率到640×480。但官方没说试用期多久。试用期过后可以购买或观看广告解锁高清晰度。</p><p>付费版：解锁所有功能，分为年付和永久版。可购买PC注册码或在手机app内购买。注意PC端中文页面和英文页面付款金额不同,且单台使用,最多更换5台设备。移动端apple store和 Google play购买许可不互通。</p><p>个人建议：适合应急和低频会议需求，不推荐付费。高频需求还是推荐海康威视或其他品牌的专业直播设备</p></div><h1 id="同类产品"><a href="#同类产品" class="headerlink" title="同类产品"></a>同类产品</h1> <div class="note info no-icon modern"><p>同类产品有很多,适合自己的才是最好的，推荐尝试。无论无论任何产品，都建议作为临时替代,不建议高频使用。</p></div><h2 id="Iriun-Webcam"><a href="#Iriun-Webcam" class="headerlink" title="Iriun Webcam"></a>Iriun Webcam</h2> <div class="note success no-icon modern"><p>Offcial:<a href="https://iriun.com">https://iriun.com</a></p></div><h2 id="DroidCam"><a href="#DroidCam" class="headerlink" title="DroidCam"></a>DroidCam</h2> <div class="note success no-icon modern"><p>Offcial:<a href="https://www.dev47apps.com">https://www.dev47apps.com</a></p></div><h2 id="VDO-Ninja"><a href="#VDO-Ninja" class="headerlink" title="VDO.Ninja"></a>VDO.Ninja</h2> <div class="note success no-icon modern"><p>Offcial:<a href="https://vdo.ninja">https://vdo.ninja</a></p></div><h2 id="Camo"><a href="#Camo" class="headerlink" title="Camo"></a>Camo</h2> <div class="note success no-icon modern"><p>Offcial:<a href="https://reincubate.com/camo">https://reincubate.com/camo</a></p></div><h2 id="EpocCam"><a href="#EpocCam" class="headerlink" title="EpocCam"></a>EpocCam</h2> <div class="note success no-icon modern"><p>Offcial:<a href="https://www.elgato.com/jp/ja/s/epoccam">https://www.elgato.com/jp/ja/s/epoccam</a></p></div><h2 id="DroidCam-OBS"><a href="#DroidCam-OBS" class="headerlink" title="DroidCam OBS"></a>DroidCam OBS</h2> <div class="note success no-icon modern"><p>Offcial:<a href="https://droidcam.app/obs">https://droidcam.app/obs</a></p></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> Software </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Share </tag>
+            
+            <tag> Software </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>烤鸭蘸酱制作</title>
       <link href="/blog/RoastDuckSauce/"/>
       <url>/blog/RoastDuckSauce/</url>
