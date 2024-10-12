@@ -90,7 +90,7 @@
       
       <categories>
           
-          <category> 人文 </category>
+          <category> Humanities </category>
           
       </categories>
       
@@ -99,7 +99,7 @@
             
             <tag> Share </tag>
             
-            <tag> 人文 </tag>
+            <tag> Humanities </tag>
             
         </tags>
       
@@ -117,7 +117,7 @@
       
       <categories>
           
-          <category> Share </category>
+          <category> Software </category>
           
       </categories>
       
@@ -144,7 +144,7 @@
       
       <categories>
           
-          <category> Music </category>
+          <category> Share </category>
           
       </categories>
       
@@ -152,6 +152,8 @@
         <tags>
             
             <tag> Share </tag>
+            
+            <tag> Music </tag>
             
         </tags>
       
@@ -169,7 +171,7 @@
       
       <categories>
           
-          <category> 人文 </category>
+          <category> Humanities </category>
           
       </categories>
       
@@ -178,7 +180,7 @@
             
             <tag> Share </tag>
             
-            <tag> 人文 </tag>
+            <tag> Humanities </tag>
             
         </tags>
       
@@ -204,6 +206,8 @@
         <tags>
             
             <tag> Share </tag>
+            
+            <tag> Software </tag>
             
         </tags>
       
@@ -248,7 +252,7 @@
       
       <categories>
           
-          <category> Share </category>
+          <category> Humanities </category>
           
       </categories>
       
@@ -256,6 +260,8 @@
         <tags>
             
             <tag> Share </tag>
+            
+            <tag> Humanities </tag>
             
             <tag> 起卦 </tag>
             
@@ -311,7 +317,7 @@
             
             <tag> Share </tag>
             
-            <tag> Useful Website </tag>
+            <tag> Useful Web </tag>
             
         </tags>
       
@@ -383,7 +389,7 @@
       
       <categories>
           
-          <category> Share </category>
+          <category> Software </category>
           
       </categories>
       
@@ -392,7 +398,7 @@
             
             <tag> Share </tag>
             
-            <tag> AI作画 </tag>
+            <tag> AI </tag>
             
         </tags>
       
@@ -410,7 +416,7 @@
       
       <categories>
           
-          <category> Share </category>
+          <category> Software </category>
           
       </categories>
       
@@ -523,9 +529,7 @@
       
         <tags>
             
-            <tag> Cloudflare </tag>
-            
-            <tag> 邮件转发 </tag>
+            <tag> EmailRoute </tag>
             
         </tags>
       
@@ -543,7 +547,7 @@
       
       <categories>
           
-          <category> 科学上网 </category>
+          <category> Scientific Surfing </category>
           
       </categories>
       
@@ -551,6 +555,8 @@
         <tags>
             
             <tag> Software </tag>
+            
+            <tag> Cloudflare </tag>
             
             <tag> Warp </tag>
             
@@ -570,12 +576,14 @@
       
       <categories>
           
-          <category> 科学上网 </category>
+          <category> Scientific Surfing </category>
           
       </categories>
       
       
         <tags>
+            
+            <tag> Share </tag>
             
             <tag> Cloudflare </tag>
             
@@ -595,14 +603,14 @@
       
       <categories>
           
-          <category> Share </category>
+          <category> Scientific Surfing </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 反向代理 </tag>
+            <tag> Cloudflare </tag>
             
             <tag> 科普 </tag>
             
@@ -622,14 +630,16 @@
       
       <categories>
           
-          <category> 防骗指南 </category>
+          <category> AntiFraud </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 防骗指南 </tag>
+            <tag> Share </tag>
+            
+            <tag> Attention </tag>
             
         </tags>
       
@@ -674,7 +684,7 @@
       
       <categories>
           
-          <category> 祈福 </category>
+          <category> Humanities </category>
           
       </categories>
       
@@ -682,6 +692,8 @@
         <tags>
             
             <tag> 祈福 </tag>
+            
+            <tag> Humanites </tag>
             
         </tags>
       
