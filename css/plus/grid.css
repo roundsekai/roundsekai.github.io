@@ -1,0 +1,35 @@
+/* ========================================
+ * Butterfly Plus Grid
+ * Author: MEET Happiness
+ * ======================================== */
+.bf-grid {
+  display: grid;
+  gap: 1.2rem;
+  margin: 1.5rem 0;
+}
+/* 两列 */
+.cols-2 {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+/* 三列 */
+.cols-3 {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+/* 四列 */
+.cols-4 {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+/* 自动 */
+.cols-auto {
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+}
+/* Grid Item */
+.bf-grid-item {
+  min-width: 0;
+}
+/* 手机 */
+@media screen and (max-width: 768px) {
+  .bf-grid {
+    grid-template-columns: 1fr !important;
+  }
+}
